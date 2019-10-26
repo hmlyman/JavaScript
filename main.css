@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(197, 38, 64);
+    font-size: 35px;
+}
+
+body {
+    background-color: rgb(156, 156, 235);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#mainContent {
+    display: contents;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
